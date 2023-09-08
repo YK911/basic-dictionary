@@ -186,7 +186,7 @@
 </ul>
 ```
 
-![List](/assets/simple-list.jpg "Simple list")
+![List](assets/simple-list.jpg "Simple list")
 
 ### Список посилань на соціальні мережі
 
@@ -210,7 +210,7 @@
 </ul>
 ```
 
-![Socials](/assets/socials.jpg "Socials list")
+![Socials](assets/socials.jpg "Socials list")
 
 ### Картинка користувача (юзерпік)
 
@@ -221,7 +221,7 @@
 </div>
 ```
 
-![User](/assets/user.jpg "User block")
+![User](assets/user.jpg "User block")
 
 ### Галерея зображень
 
@@ -238,7 +238,7 @@
 </div>
 ```
 
-![Gallery](/assets/gallery.jpg "Image gallery")
+![Gallery](assets/gallery.jpg "Image gallery")
 
 ### Навігація
 
@@ -251,7 +251,7 @@
 </nav>
 ```
 
-![Navigation](/assets/simple-nav.jpg "Simple navigation")
+![Navigation](assets/simple-nav.jpg "Simple navigation")
 
 ```html
 <nav class="nav">
@@ -272,7 +272,7 @@
 </nav>
 ```
 
-![Navigation](/assets/nav.jpg "Complex navigation")
+![Navigation](assets/nav.jpg "Complex navigation")
 
 ### Віджет в боковій колонці
 
@@ -288,7 +288,7 @@
 </div>
 ```
 
-![Widget](/assets/widget.jpg "Widget")
+![Widget](assets/widget.jpg "Widget")
 
 ### Новинний блок
 
@@ -326,7 +326,7 @@
 </div>
 ```
 
-![News block](/assets/news.jpg "News block")
+![News block](assets/news.jpg "News block")
 
 ### Стаття в блозі чи публікація (простий варіант)
 
@@ -349,7 +349,7 @@
 </article>
 ```
 
-![Blog post](/assets/article.jpg "Simple blog post")
+![Blog post](assets/article.jpg "Simple blog post")
 
 ### Стаття в блозі чи публікація (складний варіант)
 
