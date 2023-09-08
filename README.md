@@ -186,6 +186,8 @@
 </ul>
 ```
 
+![List](/assets/simple-list.jpg "Simple list")
+
 ### Список посилань на соціальні мережі
 
 ```html
@@ -208,6 +210,8 @@
 </ul>
 ```
 
+![Socials](/assets/socials.jpg "Socials list")
+
 ### Картинка користувача (юзерпік)
 
 ```html
@@ -216,6 +220,8 @@
   <a class="user-link" href="#">Tom Ford</a>
 </div>
 ```
+
+![User](/assets/user.jpg "User block")
 
 ### Галерея зображень
 
@@ -232,6 +238,8 @@
 </div>
 ```
 
+![Gallery](/assets/gallery.jpg "Image gallery")
+
 ### Навігація
 
 ```html
@@ -242,6 +250,8 @@
   <a class="nav-link" href="#">Contacts</a>
 </nav>
 ```
+
+![Navigation](/assets/simple-nav.jpg "Simple navigation")
 
 ```html
 <nav class="nav">
@@ -262,6 +272,8 @@
 </nav>
 ```
 
+![Navigation](/assets/nav.jpg "Complex navigation")
+
 ### Віджет в боковій колонці
 
 ```html
@@ -275,6 +287,8 @@
   </div>
 </div>
 ```
+
+![Widget](/assets/widget.jpg "Widget")
 
 ### Новинний блок
 
@@ -312,6 +326,8 @@
 </div>
 ```
 
+![News block](/assets/news.jpg "News block")
+
 ### Стаття в блозі чи публікація (простий варіант)
 
 ```html
@@ -332,6 +348,8 @@
   </div>
 </article>
 ```
+
+![Blog post](/assets/article.jpg "Simple blog post")
 
 ### Стаття в блозі чи публікація (складний варіант)
 
